@@ -3,7 +3,9 @@ Menu Utility. This is a c programming language project, you can run it on VS Cod
 A menu-driven C program that lets the user choose between a few small utilities: printing an 
 ASCII table, calculating the total resistance of a parallel circuit, and finding the length of a string. 
 
+
 Features 
+
 • A / B - Print a full ASCII table (DEC, HEX, CHAR) for values 0–255 
 • C - Calculate total resistance of three resistors in parallel 
 • D - Calculate the length of a user-input string (custom function, no strlen) 
